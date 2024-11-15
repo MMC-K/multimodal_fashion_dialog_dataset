@@ -1,5 +1,6 @@
 # 멀티 모달 대화 모델을 위한 패션 지식 대화 데이터 셋 <br>:복합대화 연구용 데이터셋 V.2 (데이터)
-
+# 다운로드 링크
+[다운로드](https://huggingface.co/datasets/KETI-AIR/multimodal_dialogue_coreference_resolution/resolve/main/data.zip)
 # 목적 및 소개
 - <b> 목적 </b>: 텍스트로 이루어진 대화 뿐만 아니라 이미지까지 포함된 대화도 언어모델이 처리할 수 있도록하는 것이 목적.
 - <b> 도메인 </b>: 이미지와 텍스트 모두에 대한 이해가 있어야 대화가 가능한 패션으로 도메인을 설정. 
